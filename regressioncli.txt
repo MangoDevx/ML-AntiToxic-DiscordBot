@@ -1,0 +1,1 @@
+mlnet classification --dataset "MlMessages.csv" --label-col "Toxic" --ignore-cols Id --train-time 10
